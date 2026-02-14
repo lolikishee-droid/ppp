@@ -1,0 +1,7 @@
+{
+  "name": "Invoice System transaction selar",
+  "description": "A high-fidelity digital money application clone with secure transaction features and real-time balance tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
